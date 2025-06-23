@@ -6,7 +6,7 @@ Creating a visual dashboard of e-commerce sales data for 2022. In addition, anal
 
 <br>
 
-- Using datasets from [this file](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering?select=segmentation+data.csv)
+- Using datasets from [this file](https://github.com/MaruliHTGL/Business-Intelligence-E-Commerce-Sales-Dashboard-2022/blob/438ccff6ab558ed42eaf6192954437cd4c33b8a5/dataset-ecommerce.xlsx)
 - To view the live dashboard, please visit [this link](https://lookerstudio.google.com/s/r256GdUlv9E)
 
 <br>
